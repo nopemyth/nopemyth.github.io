@@ -17,4 +17,5 @@ footer { border-top: 1px solid var(--line); padding-top: 16px; padding-bottom: 3
 .top nav a { font-weight: 600; }
 .kasten { border: 1px solid var(--line); border-radius: 10px; padding: 4px 18px 10px; margin: 28px 0; }
 .yt { font-size: .95rem; }
-.yt-badge { display: inline-block; background: #ff0000; color: #fff; border-radius: 6px; padding: 0 7px; font-size: .8rem; margin-right: 4px; }
+.yt-logo { margin: 8px 0 0; }
+.yt-logo img { display: block; }
